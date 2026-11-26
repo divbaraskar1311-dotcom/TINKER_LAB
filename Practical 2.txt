@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Example of Links, Images and Navigation in HTML</title>
+</head>
+<body>
+
+    <h2>The link b.SIT, Nagpur</h2>
+
+    <nav>
+        &lt;παν 
+        <a href="https://www.sitnagpur.edu.in/">sit home</a> 
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <h2>About SIJ Nagpur</h2>
+
+    <h3>overview of Department</h3>
+    <p>
+        the department of computer science and Engineering (CSE) at Symbiosis Institute of Technology (SIT), Nagpur, is committed to delivering high quality education........
+    </p>
+
+    <h2 id="contact">Contact</h2>
+    <p>
+        SIT, Nagpur<br>
+        Bandewadi Road<br>
+        wathoda<br>
+        440008
+    </p>
+
+</body>
+</html>
